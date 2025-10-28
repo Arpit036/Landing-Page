@@ -2,7 +2,7 @@ import Navbar from './Components/Navbar'
 import HeroSection from './Components/HeroSection'
 import FeatureSection from './Components/FeatureSection'
 import WorkFlow from './Components/WorkFlow';
- 
+ import Pricing from './Components/Pricing';
  const App = () => {
    return (
      <>
@@ -11,6 +11,7 @@ import WorkFlow from './Components/WorkFlow';
      <HeroSection />
      <FeatureSection />
      <WorkFlow />
+     <Pricing />
 
      </div>
      </>
