@@ -3,7 +3,7 @@ import video2 from '../assets/video2.mp4';
 
 const HeroSection = () => {
   return (
-     <div className=" felx-col items-center mt-20 lg:mt-15">
+     <div className=" flex-col items-center mt-20 lg:mt-15">
         <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
             Virtual build tools 
             <span className='bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text'>
@@ -31,7 +31,7 @@ const HeroSection = () => {
             muted 
             className='rounded-lg w-1/2 border border-orange-700 shadow-orange-400
             mx-2 my-4'> 
-            <source src={video2} type="video/mp4" />
+            <source src={video1} type="video/mp4" />
             Your browser does not support the video tag.
             </video>
             
@@ -41,7 +41,7 @@ const HeroSection = () => {
             muted 
             className='rounded-lg w-1/2 border border-orange-700 shadow-orange-400
             mx-2 my-4'> 
-            <source src={video1} type="video/mp4" />
+            <source src={video2} type="video/mp4" />
             Your browser does not support the video tag.
             </video>
          </div>
