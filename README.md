@@ -5,8 +5,7 @@ A modern and responsive landing page built using **React**, **Tailwind CSS**, an
 ---
 
 ## 🔗 Live Demo  
-👉 [Click here to view the project on Vercel](landing-page-phi-three-39.vercel.app
-)
+👉 [Click here to view the project on Vercel](https://landing-page-phi-three-39.vercel.app/)
 
 ---
 
