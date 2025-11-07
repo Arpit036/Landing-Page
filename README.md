@@ -1,8 +1,20 @@
-# Landing-Page
- Full responsive Landing Page using React + Tailwindcss.
+# 🚀 Landing Page
 
- ## 🚀 Live Demo
-[https://landing-pg.vercel.app](https://landing-pagee-nu.vercel.app/)
+A modern and responsive landing page built using **React**, **Tailwind CSS**, and **Vite**.
 
- 
+---
+
+## 🔗 Live Demo  
+👉 [Click here to view the project on Vercel](landing-page-phi-three-39.vercel.app
+)
+
+---
+
+## 🛠️ Tech Stack
+- React.js ⚛️  
+- Tailwind CSS 🎨  
+- Vite ⚡  
+- Deployed on **Vercel**
+
+---
  
